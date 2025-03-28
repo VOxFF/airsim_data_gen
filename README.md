@@ -1,2 +1,2 @@
-# airsim_data_gen
+# AirSim Data Generation
 Repo contains Python scripts for controlling vehicles in AirSim, capturing stereo images, depth maps, and ground-truth poses for training models.
